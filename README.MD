@@ -1,8 +1,6 @@
 ﻿**Unpaired Medical Image Translation and Detection:- *Leveraging CycleGAN for Medical Image Generation with Brain Tumor Detection*** 
 
-(Team ID: 530) 
-
-Shaurya Thakur (E21CSEU0580)   Shriyash Saxena (E21CSEU0605) 
+Shaurya Thakur (E21CSEU0580)
 
 ***Introduction*** 
 
